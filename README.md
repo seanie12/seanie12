@@ -10,7 +10,3 @@
 -[Domain-agnostic question-answering with adversarial training](https://arxiv.org/abs/1910.09342)
 Seanie Lee*, Donggyu Kim*, and Jangwon Park*. <font color="blue"> EMNLP-IJCNLP 2019 MRQA Workshop shared task </font>
 
-  <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seanie12)](https://hits.seeyoufarm.com) 
-	
-  </div>
