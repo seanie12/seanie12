@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mathematics and statistics
 
 ### Publications
-- [g2pM: A Neural Grapheme-to-Phoneme Conversion Package for MandarinChinese Based on a New Open Benchmark Dataset](https://arxiv.org/abs/2004.03136). Kyubyong Park*, <strong>Seanie Lee*</strong>.arXiv
+- [g2pM: A Neural Grapheme-to-Phoneme Conversion Package for MandarinChinese Based on a New Open Benchmark Dataset](https://arxiv.org/abs/2004.03136). Kyubyong Park*, <strong>Seanie Lee*</strong>. INTERSPEECH 2020
 
 - [Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs](https://arxiv.org/abs/2005.13837). Dong Bok Lee*, <strong>Seanie Lee*</strong>, Woo Tae Jeong, Donghwan Kim, Sung Ju Hwang. <font color="red">ACL 2020</font>	
 
