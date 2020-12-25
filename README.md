@@ -1,6 +1,6 @@
 ## Graduate Student of KAIST 👋
 - 🔭 I’m currently working on language generation.
-- 🌱 I’m currently learning mathematics and statistics
+- 🌱 I’m currently learning mathematics and statistics. [Blog](https://seanie12.github.io/blog/) for math and stat
 
 ### Publications
 - [g2pM: A Neural Grapheme-to-Phoneme Conversion Package for MandarinChinese Based on a New Open Benchmark Dataset](https://arxiv.org/abs/2004.03136). Kyubyong Park*, <strong>Seanie Lee*</strong>. INTERSPEECH 2020
