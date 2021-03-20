@@ -1,5 +1,5 @@
 ## Graduate Student of KAIST 👋
-- 🔭 I’m currently working on language generation.
+- 🔭 I’m currently working on multilingual NLP.
 - 🌱 I’m currently learning mathematics and statistics. [Blog](https://seanie12.github.io/blog/) for math and stat.
 
 ### Publications
