@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mathematics and statistics. [Blog](https://seanie12.github.io/blog/) for math and stat.
 
 ### Publications
-- [Learning to Perturb Word Embeddings for Out-of-distribution QA](https://arxiv.org/abs/2105.02692). <strong>Seanie Lee*</strong>, [Minki Kang](https://nardien.github.io/)*, [Juho Lee](https://juho-lee.github.io/), [Sung Ju Hwang](http://www.sungjuhwang.com/). ACL 2021
+- [Learning to Perturb Word Embeddings for Out-of-distribution QA](https://arxiv.org/abs/2105.02692). <strong>Seanie Lee*</strong>, Minki Kang*, Juho Lee, Sung Ju Hwang. ACL 2021
 
 - [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://openreview.net/pdf?id=Wga_hrCa3P3). <strong>Seanie Lee*</strong>, Dong Bok Lee*, Sung Ju Hwang. ICLR 2021
 - [Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning](https://openreview.net/pdf?id=wS0UFjsNYjn). Dong Bok Lee, Dongchan Min, <strong>Seanie Lee</strong>, Sung Ju Hwang. ICLR 2021 (spotlight)
