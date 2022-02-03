@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mathematics and statistics. [Blog](https://seanie12.github.io/blog/) for math and stat.
 
 ### Publications
--[Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning](https://openreview.net/forum?id=ivQruZvXxtz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)). <strong>Seanie Lee*</strong>, Hae Beom Lee*, Juho Lee, Sung Ju Hwang. ICLR 2022
+- [Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning](https://openreview.net/forum?id=ivQruZvXxtz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2022%2FConference%2FAuthors%23your-submissions)). <strong>Seanie Lee*</strong>, Hae Beom Lee*, Juho Lee, Sung Ju Hwang. ICLR 2022
 
 - [Learning to Perturb Word Embeddings for Out-of-distribution QA](https://arxiv.org/abs/2105.02692). <strong>Seanie Lee*</strong>, Minki Kang*, Juho Lee, Sung Ju Hwang. ACL 2021
 
